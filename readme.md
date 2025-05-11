@@ -65,7 +65,7 @@ pip install -r requirements.txt
    - MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
    - Windows: `%AppData%\Claude\claude_desktop_config.json`
 
-* if you cannot find this file, when Claude opens click on Claude and system settings (these are different settings that inside the application)
+* if you cannot find this file, when Claude opens click on Claude and system settings (these are different settings that inside the application) see https://modelcontextprotocol.io/quickstart/user
 
 3. Add your MCP configuration to the JSON file:
 
